@@ -1,7 +1,7 @@
 # Cyber Threat Profiling Resources
 A library of reference materials, tools, and other resources to accompany [The Ultimate Guide to Cyber Threat Profiling]() whitepaper, published by [Tidal Cyber](https://www.tidalcyber.com/)
 
-"The concept of threat profiling offers the potential for threat prioritization, but even when security leaders choose to pursue it, misconceptions over its validity and utility and the lack of a clear and repeatable approach to profiling – as it relates to organization-wide threats – have all hampered its adoption. Even when teams do take steps to prioritize threats, efforts often prolong (in many cases indefinitely) or are impeded by a need for deep intelligence subject matter expertise."
+`The concept of threat profiling offers the potential for threat prioritization, but even when security leaders choose to pursue it, misconceptions over its validity and utility and the lack of a clear and repeatable approach to profiling – as it relates to organization-wide threats – have all hampered its adoption. Even when teams do take steps to prioritize threats, efforts often prolong (in many cases indefinitely) or are impeded by a need for deep intelligence subject matter expertise.`
 
 We created this guide to address each of these challenges, lower barriers to entry into cyber threat profiling, and drive its wider adoption.
 
