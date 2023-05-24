@@ -7,6 +7,17 @@ We created this guide to address each of these challenges, lower barriers to ent
 
 Download the e-book **[here]()**
 
+### Index
+* [Frameworks & Methodologies](https://github.com/tidalcyber/cyber-threat-profiling#frameworks--methodologies)
+* [Threat Data Sources](https://github.com/tidalcyber/cyber-threat-profiling#threat-data-sources)
+* [MITRE ATT&CK®](https://github.com/tidalcyber/cyber-threat-profiling#mitre-attck)
+* [Threat Quantification](https://github.com/tidalcyber/cyber-threat-profiling#threat-quantification)
+* [Threat-Informed Defense](https://github.com/tidalcyber/cyber-threat-profiling#threat-informed-defense)
+* [Detection Engineering, Threat Hunting, Adversary Simulation/Emulation, & Purple Teaming](https://github.com/tidalcyber/cyber-threat-profiling#detection-engineering-threat-hunting-adversary-simulationemulation--purple-teaming)
+* [Risk](https://github.com/tidalcyber/cyber-threat-profiling#risk)
+* [Workflow Resources & Tools](https://github.com/tidalcyber/cyber-threat-profiling#workflow-resources--tools)
+* [Cyber Threat Intelligence (CTI) Introductory Resources](https://github.com/tidalcyber/cyber-threat-profiling#cyber-threat-intelligence-cti-introductory-resources)
+
 ### Frameworks & Methodologies
 #### Cybersecurity & Cyber Threat Frameworks & Foundational Resources (General)
 * [CIA Triad](https://www.cocc.edu/departments/cio/infosec/concepts/cia-triad.aspx)
@@ -86,8 +97,8 @@ Download the e-book **[here]()**
 * [The next 50 years of cyber security.](https://magoo.medium.com/next50-ea33c5db5930)
 
 ### Threat-Informed Defense
-* [Threat Informed-Defense Ecosystem start.me page](https://start.me/p/X25q7l/threat-informed-defense-ecosystem): Living compendium of tools, trainings, & resources related to Threat-Informed Defense maintained by [Micah VanFossen](https://substack.com/profile/124945092-micah-vanfossen)
-* [Tidal Cyber Community Edition](https://app.tidalcyber.com/)
+* [Threat Informed-Defense Ecosystem start.me page](https://start.me/p/X25q7l/threat-informed-defense-ecosystem): Living compendium of tools, trainings, & resources related to Threat-Informed Defense
+* [Tidal Cyber Community Edition](https://app.tidalcyber.com/): A freely-available threat-informed defense platform for researching threat actors, building technique sets, and more. Community Edition users are able to share their work and participate in the larger Tidal Cyber community of defenders. *(Transparency note: Tidal Cyber maintains this threat profiling resource repository!)*
 
 ### Detection Engineering, Threat Hunting, Adversary Simulation/Emulation, & Purple Teaming
 * [Sigma Rules Public Repository](https://github.com/SigmaHQ/sigma)
@@ -110,13 +121,19 @@ Download the e-book **[here]()**
 ### Workflow Resources & Tools
 * [Excel Pivot Tables](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576): Or alternatively, building pivot tables in [Google Sheets](https://support.google.com/docs/answer/1272900?hl=en&co=GENIE.Platform%3DDesktop) or [Numbers](https://support.apple.com/guide/numbers/create-a-pivot-table-tan7f62056cf/mac)
 * [Python Basics](https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody)
+* [Working with ATT&CK Data](https://github.com/tidalcyber/cyber-threat-profiling#working-with-attck-data)
 
 ### Cyber Threat Intelligence (CTI) Introductory Resources
+* [A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a)
 * [Diamond Model of Intrusion Analysis](https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)
 * [The Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
 * [Security Intelligence: Attacking the Cyber Kill Chain](https://www.sans.org/blog/security-intelligence-attacking-the-cyber-kill-chain/)
 * [Security Intelligence: Introduction (pt 2)](https://www.sans.org/blog/security-intelligence-introduction-pt-2-/)
+* [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+* [CTI Fundamentals](https://github.com/curated-intel/CTI-fundamentals)
 * [Getting Started with ATT&CK: Threat Intelligence](https://medium.com/mitre-attack/getting-started-with-attack-cti-4eb205be4b2f)
 * [Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI)
+* [CTI Analyst Core Competencies Framework](https://www.mandiant.com/resources/blog/cti-analyst-core-competencies-framework)
+* [awesome-intelligence-writing](https://github.com/mxm0z/awesome-intelligence-writing)
 
 *MITRE ATT&CK® is a registered trademark of The MITRE Corporation*
