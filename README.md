@@ -1,13 +1,13 @@
 # Cyber Threat Profiling Resources
 A library of reference materials, tools, and other resources to accompany [The Ultimate Guide to Cyber Threat Profiling]() whitepaper, published by [Tidal Cyber](https://www.tidalcyber.com/)
 
-`The concept of threat profiling offers the potential for threat prioritization, but even when security leaders choose to pursue it, misconceptions over its validity and utility and the lack of a clear and repeatable approach to profiling – as it relates to organization-wide threats – have all hampered its adoption. Even when teams do take steps to prioritize threats, efforts often prolong (in many cases indefinitely) or are impeded by a need for deep intelligence subject matter expertise.`
+*"The concept of threat profiling offers the potential for threat prioritization, but even when security leaders choose to pursue it, misconceptions over its validity and utility and the lack of a clear and repeatable approach to profiling – as it relates to organization-wide threats – have all hampered its adoption. Even when teams do take steps to prioritize threats, efforts often prolong (in many cases indefinitely) or are impeded by a need for deep intelligence subject matter expertise."*
 
 We created this guide to address each of these challenges, lower barriers to entry into cyber threat profiling, and drive its wider adoption.
 
 Download the e-book **[here]()**
 
-### Index
+## Index
 * [Frameworks & Methodologies](https://github.com/tidalcyber/cyber-threat-profiling#frameworks--methodologies)
 * [Threat Data Sources](https://github.com/tidalcyber/cyber-threat-profiling#threat-data-sources)
 * [MITRE ATT&CK®](https://github.com/tidalcyber/cyber-threat-profiling#mitre-attck)
@@ -18,8 +18,8 @@ Download the e-book **[here]()**
 * [Workflow Resources & Tools](https://github.com/tidalcyber/cyber-threat-profiling#workflow-resources--tools)
 * [Cyber Threat Intelligence (CTI) Introductory Resources](https://github.com/tidalcyber/cyber-threat-profiling#cyber-threat-intelligence-cti-introductory-resources)
 
-### Frameworks & Methodologies
-#### Cybersecurity & Cyber Threat Frameworks & Foundational Resources (General)
+## Frameworks & Methodologies
+### Cybersecurity & Cyber Threat Frameworks & Foundational Resources (General)
 * [CIA Triad](https://www.cocc.edu/departments/cio/infosec/concepts/cia-triad.aspx)
 * [Diamond Model of Intrusion Analysis](https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)
 * [The Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
@@ -29,7 +29,7 @@ Download the e-book **[here]()**
 * [The TTP Pyramid](https://scythe.io/library/summiting-the-pyramid-of-pain-the-ttp-pyramid)
 * [The OODA Loop](https://www.sciencedirect.com/science/article/pii/S1472811722001057?via%3Dihub#sec3)
 
-#### Threat Profiling/Modeling Frameworks & Methodologies
+### Threat Profiling/Modeling Frameworks & Methodologies
 * [Cyber Threat Modeling: Survey, Assessment, and Representative Framework](https://www.mitre.org/sites/default/files/2021-11/prs-18-1174-ngci-cyber-threat-modeling.pdf): A 2018 review of key existing frameworks and methodologies for threat modeling
 * [Enterprise Threat Model Technical Report](https://www.mitre.org/sites/default/files/2021-11/pr-18-1613-ngci-enterprise-threat-model-technical-report.pdf)
 * [Process for Attack Simulation and Threat Analysis (PASTA)](https://versprite.com/blog/what-is-pasta-threat-modeling/)
@@ -42,7 +42,7 @@ Download the e-book **[here]()**
 * [Visual, Agile and Simple Threat (VAST)](https://threatmodeler.com/threatmodeling-methodologies-vast/)
 * [Operationally Critical Threat, Asset, and Vulnerability Evaluation (OCTAVE®)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=8419)
 
-### Adversarial Threat Profiling Guidance & Resources (General)
+## Adversarial Threat Profiling Guidance & Resources (General)
 * [The Ultimate Guide to Cyber Threat Profiling]()
 * [Using Threat Intelligence to Focus ATT&CK Activities](https://www.youtube.com/watch?v=V--wxuSEMD0)
 * [How to prioritize effectively with Threat Modeling and ATT&CK](https://www.youtube.com/watch?v=i5mx8jyoOGE)
@@ -50,8 +50,8 @@ Download the e-book **[here]()**
 * [Adversarial Threat Modelling](https://github.com/ssnkhan/adversarial-threatmodelling/blob/master/Adversarial-Threat-Modelling_Presentation.pdf)
 * [Emulation Planning for Purple Teams](https://www.academy.attackiq.com/courses/emulation-planning-for-purple-teams)
 
-### Threat Data Sources
-#### Adversarial Threat Data (with Structured Metadata)
+## Threat Data Sources
+### Adversarial Threat Data (with Structured Metadata)
 * [Tidal Cyber Community Edition](https://app.tidalcyber.com/): A freely-available threat-informed defense platform for researching threat actors, building technique sets, and more. Community Edition users are able to share their work and participate in the larger Tidal Cyber community of defenders. *(Transparency note: Tidal Cyber maintains this threat profiling resource repository!)*
 * [MITRE ATT&CK®](https://attack.mitre.org/)
 * [ETDA/ThaiCERT: Threat Encyclopedia](https://apt.etda.or.th/cgi-bin/aptsearch.cgi)
@@ -62,7 +62,7 @@ Download the e-book **[here]()**
 * [CrowdStrike Threat Landscape](https://www.crowdstrike.com/adversaries/)
 * [APT Groups & Operations (public Google Sheet)](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
 
-#### Niche & General Cyber Incident Data Sources 
+### Niche & General Cyber Incident Data Sources 
 * [ransomwatch](https://github.com/joshhighet/ransomwatch)
 * [MalwareBazaar](https://bazaar.abuse.ch/browse/)
 * [Verizon Data Breach Investigations Report (DBIR)](https://www.verizon.com/business/resources/reports/dbir/)
@@ -75,32 +75,32 @@ Download the e-book **[here]()**
 * [Software Supply Chain Compromises - A Living Dataset](https://github.com/IQTLabs/software-supply-chain-compromises/blob/master/software_supply_chain_attacks.csv)
 * [DeFi Hack database](https://defillama.com/hacks)
 
-### MITRE ATT&CK®
+## MITRE ATT&CK®
 * [Website](https://attack.mitre.org/)
 * [Using MITRE ATT&CK for Cyber Threat Intelligence Training](https://attack.mitre.org/resources/training/cti/)
 * [Hunting for Post-Exploitation Stage Attacks with Elastic Stack and the MITRE ATT&CK Framework
 ](https://www.youtube.com/watch?v=PdCQChYrxXg)
 * [Getting Started with ATT&CK: Threat Intelligence](https://medium.com/mitre-attack/getting-started-with-attack-cti-4eb205be4b2f)
 
-#### Working with ATT&CK Data
+### Working with ATT&CK Data
 * [enterprise-attack.json](https://github.com/mitre-attack/attack-stix-data/blob/master/enterprise-attack/enterprise-attack.json)
 * [attack-scripts](https://github.com/mitre-attack/attack-scripts/tree/master/scripts)
 * [mitreattack-python](https://github.com/mitre-attack/mitreattack-python)
 * [mitre_attack_oneliners.py](https://gist.github.com/wietze/54463af7ea1748550e89cac799fb9835)
 * [mitre-assistant](https://github.com/Sukelluskello/mitre-assistant)
 
-### Threat Quantification
+## Threat Quantification
 * [Quantifying Threat Actors with Threat Box](https://klrgrz.medium.com/quantifying-threat-actors-with-threat-box-e6b641109b11)
 * [Using Threat Intelligence to Focus ATT&CK Activities](https://www.youtube.com/watch?v=V--wxuSEMD0)
 * [Sophisticuffs: The Rumble Over Adversary Sophistication](https://www.slideshare.net/PalJaramillo/bsides-chicago2017)
 * [NIST SP 800-30 Rev. 1, Guide for Conducting Risk Assessments](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-30r1.pdf): See especially Appendix D: Threat Sources
 * [The next 50 years of cyber security.](https://magoo.medium.com/next50-ea33c5db5930)
 
-### Threat-Informed Defense
+## Threat-Informed Defense
 * [Threat Informed-Defense Ecosystem start.me page](https://start.me/p/X25q7l/threat-informed-defense-ecosystem): Living compendium of tools, trainings, & resources related to Threat-Informed Defense
 * [Tidal Cyber Community Edition](https://app.tidalcyber.com/): A freely-available threat-informed defense platform for researching threat actors, building technique sets, and more. Community Edition users are able to share their work and participate in the larger Tidal Cyber community of defenders. *(Transparency note: Tidal Cyber maintains this threat profiling resource repository!)*
 
-### Detection Engineering, Threat Hunting, Adversary Simulation/Emulation, & Purple Teaming
+## Detection Engineering, Threat Hunting, Adversary Simulation/Emulation, & Purple Teaming
 * [Sigma Rules Public Repository](https://github.com/SigmaHQ/sigma)
 * [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team): "Small and highly portable detection tests based on MITRE's ATT&CK"
 * [Foundations of Purple Teaming](https://www.academy.attackiq.com/courses/foundations-of-purple-teaming)
@@ -109,21 +109,21 @@ Download the e-book **[here]()**
 * [Awesome Detection Engineering](https://github.com/infosecB/awesome-detection-engineering)
 * [awesome-detection-rules](https://github.com/jatrost/awesome-detection-rules)
 
-### Risk
-#### Risk Resources (General)
+## Risk
+### Risk Resources (General)
 * [Starting Up Security](http://scrty.io/)
 * [The Risk Business](https://cyber-edge.com/resources/the-risk-business/download/)
 
-#### Measurement & Estimation
+### Measurement & Estimation
 * [Risk Measurement](https://magoo.github.io/risk-measurement/)
 * [How to Measure Anything in Cybersecurity Risk, 2nd Edition](https://www.wiley.com/en-us/How+to+Measure+Anything+in+Cybersecurity+Risk,+2nd+Edition-p-9781119892304)
 
-### Workflow Resources & Tools
+## Workflow Resources & Tools
 * [Excel Pivot Tables](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576): Or alternatively, building pivot tables in [Google Sheets](https://support.google.com/docs/answer/1272900?hl=en&co=GENIE.Platform%3DDesktop) or [Numbers](https://support.apple.com/guide/numbers/create-a-pivot-table-tan7f62056cf/mac)
 * [Python Basics](https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody)
 * [Working with ATT&CK Data](https://github.com/tidalcyber/cyber-threat-profiling#working-with-attck-data)
 
-### Cyber Threat Intelligence (CTI) Introductory Resources
+## Cyber Threat Intelligence (CTI) Introductory Resources
 * [A Cyber Threat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a)
 * [Diamond Model of Intrusion Analysis](https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)
 * [The Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
