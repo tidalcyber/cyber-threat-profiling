@@ -1,13 +1,13 @@
 # Cyber Threat Profiling Resources
-A library of reference materials, tools, and other resources to accompany [The Ultimate Guide to Cyber Threat Profiling](https://www.tidalcyber.com/ultimate-guide-to-cyber-threat-profiling?utm_campaign=CTI%20Content%202022-23&utm_source=scott-direct&utm_medium=github&utm_term=tidal-repo) whitepaper, published by [Tidal Cyber](https://www.tidalcyber.com/)
+A library of reference materials, tools, and other resources to accompany [The Ultimate Guide to Cyber Threat Profiling](https://www.tidalcyber.com/ultimate-guide-to-cyber-threat-profiling?utm_campaign=CTI%20Content%202022-23&utm_medium=github&utm_term=tidal-repo) ebook, published by [Tidal Cyber](https://www.tidalcyber.com/)
 
 *"The concept of threat profiling offers the potential for threat prioritization, but even when security leaders choose to pursue it, misconceptions over its validity and utility and the lack of a clear and repeatable approach to profiling – as it relates to organization-wide threats – have all hampered its adoption. Even when teams do take steps to prioritize threats, efforts often prolong (in many cases indefinitely) or are impeded by a need for deep intelligence subject matter expertise."*
 
 The Guide was created to address each of these challenges, lower barriers to entry into cyber threat profiling, and drive its wider adoption.
 
-Download the e-book **[here](https://www.tidalcyber.com/ultimate-guide-to-cyber-threat-profiling?utm_campaign=CTI%20Content%202022-23&utm_source=scott-direct&utm_medium=github&utm_term=tidal-repo)**
+Download the ebook **[here](https://www.tidalcyber.com/ultimate-guide-to-cyber-threat-profiling?utm_campaign=CTI%20Content%202022-23&utm_medium=github&utm_term=tidal-repo)**
 
-[![The Ultimate Guide to Cyber Threat Profiling](https://www.tidalcyber.com/hs-fs/hubfs/Ultimage_guide-LinkedIn.png?width=600&height=314&name=Ultimage_guide-LinkedIn.png)](https://www.tidalcyber.com/ultimate-guide-to-cyber-threat-profiling?utm_campaign=CTI%20Content%202022-23&utm_source=scott-direct&utm_medium=github&utm_term=tidal-repo)
+[![The Ultimate Guide to Cyber Threat Profiling](https://www.tidalcyber.com/hs-fs/hubfs/Ultimage_guide-LinkedIn.png?width=600&height=314&name=Ultimage_guide-LinkedIn.png)](https://www.tidalcyber.com/ultimate-guide-to-cyber-threat-profiling?utm_campaign=CTI%20Content%202022-23&utm_medium=github&utm_term=tidal-repo)
 
 ## Index
 * [Frameworks & Methodologies](https://github.com/tidalcyber/cyber-threat-profiling#frameworks--methodologies)
@@ -45,7 +45,7 @@ Download the e-book **[here](https://www.tidalcyber.com/ultimate-guide-to-cyber-
 * [Operationally Critical Threat, Asset, and Vulnerability Evaluation (OCTAVE®)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=8419)
 
 ## Adversarial Threat Profiling Guidance & Resources (General)
-* [The Ultimate Guide to Cyber Threat Profiling](https://www.tidalcyber.com/ultimate-guide-to-cyber-threat-profiling?utm_campaign=CTI%20Content%202022-23&utm_source=scott-direct&utm_medium=github&utm_term=tidal-repo)
+* [The Ultimate Guide to Cyber Threat Profiling](https://www.tidalcyber.com/ultimate-guide-to-cyber-threat-profiling?utm_campaign=CTI%20Content%202022-23&utm_medium=github&utm_term=tidal-repo)
 * [Using Threat Intelligence to Focus ATT&CK Activities](https://www.youtube.com/watch?v=V--wxuSEMD0)
 * [How to prioritize effectively with Threat Modeling and ATT&CK](https://www.youtube.com/watch?v=i5mx8jyoOGE)
 * [Resistance Isn’t Futile](https://www.youtube.com/watch?v=b0ShMaKDidU)
