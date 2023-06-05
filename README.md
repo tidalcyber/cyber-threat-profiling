@@ -34,8 +34,11 @@ Download the ebook **[here](https://www.tidalcyber.com/ultimate-guide-to-cyber-t
 ### Threat Profiling/Modeling Frameworks & Methodologies
 * [Cyber Threat Modeling: Survey, Assessment, and Representative Framework](https://www.mitre.org/sites/default/files/2021-11/prs-18-1174-ngci-cyber-threat-modeling.pdf): A 2018 review of key existing frameworks and methodologies for threat modeling
 * [Enterprise Threat Model Technical Report](https://www.mitre.org/sites/default/files/2021-11/pr-18-1613-ngci-enterprise-threat-model-technical-report.pdf)
-* [Process for Attack Simulation and Threat Analysis (PASTA)](https://versprite.com/blog/what-is-pasta-threat-modeling/)
+* [Prioritizing Information Security Risks with Threat Agent Risk Assessment (TARA)](https://www.researchgate.net/profile/Timothy-Casey/publication/335589639_Prioritizing_Information_Security_Risks_with_Threat_Agent_Risk_Assessment_TARA/links/5d6eb83c92851c1b3b278279/Prioritizing-Information-Security-Risks-with-Threat-Agent-Risk-Assessment-TARA.pdf?origin=publication_detail)
+  * [Threat Agent Library Helps Identify Information Security Risks](https://www.oasis-open.org/committees/download.php/66239/Intel%20Corp_Threat%20Agent%20Library_07-2202w.pdf)
 * [Guide for Conducting Risk Assessments](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-30r1.pdf)
+* [Know Your Adversary: An Adversary Model for Mastering Cyber-Defense Strategies](https://www.ten-inc.com/presentations/invincea1.pdf)
+* [Process for Attack Simulation and Threat Analysis (PASTA)](https://versprite.com/blog/what-is-pasta-threat-modeling/)
 * [STRIDE](https://learn.microsoft.com/en-us/previous-versions/commerce-server/ee823878(v=cs.20))
 * [DREAD](https://adam.shostack.org/modsec08/Shostack-ModSec08-Experiences-Threat-Modeling-At-Microsoft.pdf)
 * [LINDDUN](https://people.cs.kuleuven.be/~kim.wuyts/LINDDUN/LINDDUN.pdf)
@@ -51,6 +54,10 @@ Download the ebook **[here](https://www.tidalcyber.com/ultimate-guide-to-cyber-t
 * [Resistance Isn’t Futile](https://www.youtube.com/watch?v=b0ShMaKDidU)
 * [Adversarial Threat Modelling](https://github.com/ssnkhan/adversarial-threatmodelling/blob/master/Adversarial-Threat-Modelling_Presentation.pdf)
 * [Emulation Planning for Purple Teams](https://www.academy.attackiq.com/courses/emulation-planning-for-purple-teams)
+* [Prioritizing Information Security Risks with Threat Agent Risk Assessment (TARA)](https://www.researchgate.net/profile/Timothy-Casey/publication/335589639_Prioritizing_Information_Security_Risks_with_Threat_Agent_Risk_Assessment_TARA/links/5d6eb83c92851c1b3b278279/Prioritizing-Information-Security-Risks-with-Threat-Agent-Risk-Assessment-TARA.pdf?origin=publication_detail)
+  * [Threat Agent Library Helps Identify Information Security Risks](https://www.oasis-open.org/committees/download.php/66239/Intel%20Corp_Threat%20Agent%20Library_07-2202w.pdf)
+* [Understanding Cyberthreat Motivations to Improve Defense](https://simplecore.intel.com/itpeernetwork/wp-content/uploads/sites/38/2016/10/wp-understanding-cyberthreat-motivations-to-improve-defense.pdf)
+* [A Field Guide to Insider Threat](https://www.nationalinsiderthreatsig.org/itrmresources/Intel%20Insider%20Threat%20Field%20Guide.pdf) - Many of the threat categorizations provided could apply to external actors, too 
 
 ## Threat Data Sources
 ### Adversarial Threat Data (with Structured Metadata)
@@ -96,6 +103,7 @@ Download the ebook **[here](https://www.tidalcyber.com/ultimate-guide-to-cyber-t
 * [Using Threat Intelligence to Focus ATT&CK Activities](https://www.youtube.com/watch?v=V--wxuSEMD0)
 * [Sophisticuffs: The Rumble Over Adversary Sophistication](https://www.slideshare.net/PalJaramillo/bsides-chicago2017)
 * [NIST SP 800-30 Rev. 1, Guide for Conducting Risk Assessments](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-30r1.pdf): See especially Appendix D: Threat Sources
+* [Threat Agent Library Helps Identify Information Security Risks](https://www.oasis-open.org/committees/download.php/66239/Intel%20Corp_Threat%20Agent%20Library_07-2202w.pdf)
 * [The next 50 years of cyber security.](https://magoo.medium.com/next50-ea33c5db5930)
 
 ## Threat-Informed Defense
