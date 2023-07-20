@@ -92,11 +92,12 @@ Download the ebook **[here](https://www.tidalcyber.com/ultimate-guide-to-cyber-t
 * [Getting Started with ATT&CK: Threat Intelligence](https://medium.com/mitre-attack/getting-started-with-attack-cti-4eb205be4b2f)
 
 ### Working with ATT&CK Data
-* [enterprise-attack.json](https://github.com/mitre-attack/attack-stix-data/blob/master/enterprise-attack/enterprise-attack.json)
-* [attack-scripts](https://github.com/mitre-attack/attack-scripts/tree/master/scripts)
-* [mitreattack-python](https://github.com/mitre-attack/mitreattack-python)
-* [mitre_attack_oneliners.py](https://gist.github.com/wietze/54463af7ea1748550e89cac799fb9835)
-* [mitre-assistant](https://github.com/Sukelluskello/mitre-assistant)
+* [enterprise-attack.json](https://github.com/mitre-attack/attack-stix-data/blob/master/enterprise-attack/enterprise-attack.json): MITRE ATT&CK dataset represented in STIX 2.1 JSON
+* [attack-scripts](https://github.com/mitre-attack/attack-scripts/tree/master/scripts): "one-off scripts for working with ATT&CK content"
+* [mitreattack-python](https://github.com/mitre-attack/mitreattack-python): "A python module for working with ATT&CK"
+* [mitre_attack_oneliners.py](https://gist.github.com/wietze/54463af7ea1748550e89cac799fb9835): "MITRE ATT&CK ONELINERS for constructing Python objects with all ATT&CK techniques in them using the latest MITRE ATT&CK data"
+* [mitre-assistant](https://github.com/Sukelluskello/mitre-assistant): "A more flexible & better att&ck client"
+* [mitre_attack_csv](https://github.com/stmtstk/mitre_attack_csv): "Script to produce ATT&CK CSV files and MITRE ATT&CK CSV data storage"
 
 ## Threat Quantification
 * [Quantifying Threat Actors with Threat Box](https://klrgrz.medium.com/quantifying-threat-actors-with-threat-box-e6b641109b11)
@@ -127,6 +128,7 @@ Download the ebook **[here](https://www.tidalcyber.com/ultimate-guide-to-cyber-t
 ### Measurement & Estimation
 * [Risk Measurement](https://magoo.github.io/risk-measurement/)
 * [How to Measure Anything in Cybersecurity Risk, 2nd Edition](https://www.wiley.com/en-us/How+to+Measure+Anything+in+Cybersecurity+Risk,+2nd+Edition-p-9781119892304)
+* [Cost of a Cyber Incident: Systematic Review and Cross-Validation](https://www.cisa.gov/sites/default/files/publications/CISA-OCE_Cost_of_Cyber_Incidents_Study-FINAL_508.pdf)
 
 ## Workflow Resources & Tools
 * [Excel Pivot Tables](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576): Or alternatively, building pivot tables in [Google Sheets](https://support.google.com/docs/answer/1272900?hl=en&co=GENIE.Platform%3DDesktop) or [Numbers](https://support.apple.com/guide/numbers/create-a-pivot-table-tan7f62056cf/mac)
