@@ -38,6 +38,7 @@ Download the ebook **[here](https://www.tidalcyber.com/ultimate-guide-to-cyber-t
   * [Threat Agent Library Helps Identify Information Security Risks](https://www.oasis-open.org/committees/download.php/66239/Intel%20Corp_Threat%20Agent%20Library_07-2202w.pdf)
 * [Guide for Conducting Risk Assessments](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-30r1.pdf)
 * [Know Your Adversary: An Adversary Model for Mastering Cyber-Defense Strategies](https://www.ten-inc.com/presentations/invincea1.pdf)
+* [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
 * [Process for Attack Simulation and Threat Analysis (PASTA)](https://versprite.com/blog/what-is-pasta-threat-modeling/)
 * [STRIDE](https://learn.microsoft.com/en-us/previous-versions/commerce-server/ee823878(v=cs.20))
 * [DREAD](https://adam.shostack.org/modsec08/Shostack-ModSec08-Experiences-Threat-Modeling-At-Microsoft.pdf)
