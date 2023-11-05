@@ -124,7 +124,7 @@ Download the ebook **[here](https://www.tidalcyber.com/ultimate-guide-to-cyber-t
 ## Risk
 ### Risk Resources (General)
 * [Starting Up Security](http://scrty.io/)
-* [The Risk Business](https://cyber-edge.com/resources/the-risk-business/download/)
+* [The Risk Business](https://go.recordedfuture.com/the-risk-business)
 
 ### Measurement & Estimation
 * [Risk Measurement](https://magoo.github.io/risk-measurement/)
