@@ -131,6 +131,10 @@ Download the ebook **[here](https://www.tidalcyber.com/ultimate-guide-to-cyber-t
 * [How to Measure Anything in Cybersecurity Risk, 2nd Edition](https://www.wiley.com/en-us/How+to+Measure+Anything+in+Cybersecurity+Risk,+2nd+Edition-p-9781119892304)
 * [Cost of a Cyber Incident: Systematic Review and Cross-Validation](https://www.cisa.gov/sites/default/files/publications/CISA-OCE_Cost_of_Cyber_Incidents_Study-FINAL_508.pdf)
 
+## Organizational Context
+* [Developing Priority Intelligence Requirements](https://github.com/redhat-infosec/priority-intelligence-requirements-dev): Guidance around alignment between elements of your organization’s business & strategy, its technological assets, and relevant risks (as they relate to the development of intelligence requirements)
+* [U.S. SEC EDGAR Company Filings Database](https://www.sec.gov/edgar/searchedgar/companysearch): Filings from public companies can be a great resource for surfacing high-level organizational priorities, objectives, and pressures (whether you are building a threat profile from inside or even outside of the organization (e.g. as an MSSP))
+
 ## Workflow Resources & Tools
 * [Excel Pivot Tables](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576): Or alternatively, building pivot tables in [Google Sheets](https://support.google.com/docs/answer/1272900?hl=en&co=GENIE.Platform%3DDesktop) or [Numbers](https://support.apple.com/guide/numbers/create-a-pivot-table-tan7f62056cf/mac)
 * [Python Basics](https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody)
