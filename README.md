@@ -17,6 +17,7 @@ Download the ebook **[here](https://www.tidalcyber.com/ultimate-guide-to-cyber-t
 * [Threat-Informed Defense](https://github.com/tidalcyber/cyber-threat-profiling#threat-informed-defense)
 * [Detection Engineering, Threat Hunting, Adversary Simulation/Emulation, & Purple Teaming](https://github.com/tidalcyber/cyber-threat-profiling#detection-engineering-threat-hunting-adversary-simulationemulation--purple-teaming)
 * [Risk](https://github.com/tidalcyber/cyber-threat-profiling#risk)
+* [Organizational Context](https://github.com/tidalcyber/cyber-threat-profiling#organizational-context)
 * [Workflow Resources & Tools](https://github.com/tidalcyber/cyber-threat-profiling#workflow-resources--tools)
 * [Cyber Threat Intelligence (CTI) Introductory Resources](https://github.com/tidalcyber/cyber-threat-profiling#cyber-threat-intelligence-cti-introductory-resources)
 
