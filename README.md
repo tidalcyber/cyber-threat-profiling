@@ -95,11 +95,13 @@ Download the ebook **[here](https://www.tidalcyber.com/ultimate-guide-to-cyber-t
 
 ### Working with ATT&CK Data
 * [enterprise-attack.json](https://github.com/mitre-attack/attack-stix-data/blob/master/enterprise-attack/enterprise-attack.json): MITRE ATT&CK dataset represented in STIX 2.1 JSON
+* [ATT&CK Extractor](https://d3fend.mitre.org/tools/attack-extractor/): "Extracts ATT&CK techniques from blobs of text"
 * [attack-scripts](https://github.com/mitre-attack/attack-scripts/tree/master/scripts): "one-off scripts for working with ATT&CK content"
 * [mitreattack-python](https://github.com/mitre-attack/mitreattack-python): "A python module for working with ATT&CK"
 * [mitre_attack_oneliners.py](https://gist.github.com/wietze/54463af7ea1748550e89cac799fb9835): "MITRE ATT&CK ONELINERS for constructing Python objects with all ATT&CK techniques in them using the latest MITRE ATT&CK data"
 * [mitre-assistant](https://github.com/Sukelluskello/mitre-assistant): "A more flexible & better att&ck client"
 * [mitre_attack_csv](https://github.com/stmtstk/mitre_attack_csv): "Script to produce ATT&CK CSV files and MITRE ATT&CK CSV data storage"
+* [attack_layers_simple.py](https://github.com/mitre-attack/attack-navigator/blob/master/layers/attack_layers/attack_layers_simple.py): "This sample is intended to demonstrate generating [ATT&CK Navigator] layers from external data sources such as CSV files"
 
 ## Threat Quantification
 * [Quantifying Threat Actors with Threat Box](https://klrgrz.medium.com/quantifying-threat-actors-with-threat-box-e6b641109b11)
